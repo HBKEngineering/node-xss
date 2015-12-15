@@ -1,5 +1,7 @@
 **node-xss is codeigniter like sanitization methods.**
 
+A fork of https://bitbucket.org/dai_yamashita/node-xss
+
 (node-validator.sanitize.xss fork. because object type not support ...)
 
 To install node-xss
